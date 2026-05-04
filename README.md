@@ -13,7 +13,7 @@ This project is a Power BI dashboard analyzing customer churn behavior and ident
 - Compared active vs churned customers
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+
 
 ## 📌 Conclusion
 This dashboard helps businesses understand customer behavior and improve retention strategies.
